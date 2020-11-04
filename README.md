@@ -1,4 +1,3 @@
-# freeCodeCamp-projects
 
 # JavaScript Algorithms and Data Structures Projects
 In this section I had the chance to build the following projects:
